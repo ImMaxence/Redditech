@@ -11,7 +11,8 @@
 >Doc folder -> Documentation about Redditech project
 
 # Start
->cd m3 / npx expo start OR npm start
+>cd m3 > npm install (for node_modules)  
+>and npx expo start OR npm start
 
 # Documentation
 ## Adapter le projet
